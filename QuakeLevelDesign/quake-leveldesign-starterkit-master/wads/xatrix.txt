@@ -1,0 +1,49 @@
+26/9/99
+================================================================
+
+Title                   : Converted Kingpin textures by Xatrix for Quake 1
+Filename                : xatrix.wad
+Author                  : Robert "Fat Controller" Cruickshank
+Email Address           : fatty@planetquake.com
+Website:		: http://www.planetquake.com/fatty/
+Description             : These textures were intended for Kingpin, but were never used. As a
+			  result they were put on the public domain, in Targa (TGA) form at
+			  leadpipe.poisonville.com. To quote from there:
+
+			Original Kingpin textures that never made it into the game. When you 
+			unzip it, you'll see that the textures are all categorized exactly as 
+			the other Kingpin textures are (bricks, bricks2, etc.). The problem with
+			this is that some of these textures have the same file name as textures 
+			that already exist in the Kingpin directory. My advice is to unzip this
+			file onto your desktop, and go from there.
+
+* How to Use *
+
+Extract the WAD file into your usual storage for them. See your editor's help for further
+information.
+
+* Other Info *
+
+Apparently some of these textures use the same names as the Kingpin originals.
+
+There are 219 textures in this file. All were converted using TexMex v2.8, although some of the
+original TGA files were converted incorrectly; flourescent red foliage anyone? :) So those
+were converted to 256-colour BMPs first.
+
+What appeared to be water textures were set as such. However a few of them are larger than
+normal (128x128) so you may get a strange moire effect.
+
+* Copyright / Permissions *
+
+Authors may use these textures provided they credit Xatrix for them.
+
+You MAY distribute this file through any electronic network (internet, FIDO, local BBS etc.), 
+provided you include this file and leave the archive intact.
+
+* Where to get this WAD *
+
+http://www.planetquake.com/fatty/
+
+* Where to pick up TexMex *
+
+http://www.planetquake.com/texmex/
