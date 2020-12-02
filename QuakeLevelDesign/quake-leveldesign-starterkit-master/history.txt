@@ -1,6 +1,0 @@
-kill
-crosshair 1
-crosshair 2
-crosshair 10
-crosshair 0
-crosshair 1
